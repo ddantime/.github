@@ -1,9 +1,6 @@
 # ⏰ 딴타임 (DdanTime)
 
-> **딴짓도 기록하면 의미가 된다.**
->
-> 완벽하지 않아도 괜찮아.  
-> 딴짓이라도 한 게 어디야. 잘했어.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=SUIT&pause=500&color=FFB6C1&center=true&vCenter=true&width=435&lines=딴짓도+기록하면+의미가+된다.;딴짓이라도+한+게+어디야.+잘했어!;오늘+기록+했나요%3F+그럴+수도+있지%2C+괜찮아요.)](https://git.io/typing-svg)
 
 ---
 
